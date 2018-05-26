@@ -1,0 +1,1 @@
+MagickSlicer/magick-slicer.sh

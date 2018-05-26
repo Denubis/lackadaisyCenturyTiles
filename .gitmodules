@@ -1,0 +1,3 @@
+[submodule "MagickSlicer"]
+	path = MagickSlicer
+	url = https://github.com/VoidVolker/MagickSlicer
