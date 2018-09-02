@@ -10,11 +10,11 @@ MagickSlicer from [https://github.com/VoidVolker/MagickSlicer](https://github.co
 
 After cloning:
 
-```
+~~~
 $ cd MagickSlicer
 $ git submodule init
 $ git submodule update
 $ cd ..
 $ ./runMagick.sh lackadaisyCentury.jpg 
 $ ./makeHtml.sh
-```
+~~~
